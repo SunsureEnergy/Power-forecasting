@@ -65,3 +65,6 @@ Summary
 
 This demo shows that the forecasting and analytics foundation required for IES participation already exists.
 Future work will focus on exposing these capabilities via standardized APIs as regulatory and commercial frameworks evolve.
+
+A short video walkthrough of the Grafana dashboard demonstrating
+forecast revisions and forecast-vs-actual analysis is available in file section.
