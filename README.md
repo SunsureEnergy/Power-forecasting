@@ -179,3 +179,14 @@ This repository demonstrates capability, not production deployment.
 Closing Note
 
 This in-house power prediction dashboard demonstrates that the forecasting and analytics foundation required for IES participation already exists. By combining satellite weather data, machine learning models, automated revisions, and deviation charge analytics, the system supports operational excellence today and positions the platform for IES-aligned participation in the future.
+
+Link of Video of power prediction dashboard demonstrates that the forecasting
+https://github.com/user-attachments/assets/c75243d2-8760-46e7-b890-b68b5ccf6ef1
+
+
+Link of Video of power prediction dashboard demonstrates that the forecasting and analytics
+https://github.com/user-attachments/assets/d54850a8-7b4a-44df-b549-c446ed5dc0cc
+
+
+
+
