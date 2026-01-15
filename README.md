@@ -158,13 +158,10 @@ Repository Contents
 
 This repository contains:
 
-Masked dashboard screenshots
-
 A short dashboard walkthrough video
 
 Example data schemas (structure only, no real values)
 
-Documentation explaining IES relevance
 
 Intended Use
 
