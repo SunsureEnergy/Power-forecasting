@@ -1,2 +1,2 @@
 # Power-forecasting
-Power forecasting revisions using satellite weather 
+Power forecasting revisions using satellite weather data
